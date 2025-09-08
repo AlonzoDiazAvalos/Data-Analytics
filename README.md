@@ -1,6 +1,6 @@
 # Quantitative Predictive Modeling and Portfolio Risk Optimization on the S&P500
 
-Overview  
+#Overview  
 This capstone project demonstrates a full quantitative analysis on S&P500 data, combining statistical modeling, predictive analytics, and portfolio risk optimization. The project showcases the application of optimization, numerical methods—as well as professional Python programming skills for data analysis, modeling, and visualization.  
 
 Key Features  
