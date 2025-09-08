@@ -1,5 +1,5 @@
-# Data-Analytics
-Final Capstone Project: Quantitative Predictive Modeling and Portfolio Risk Optimization on the S&P500
+# Data-Analytics \n
+Final Capstone Project: Quantitative Predictive Modeling and Portfolio Risk Optimization on the S&P500 \n
 
 Contents
 1 Introduction 1
